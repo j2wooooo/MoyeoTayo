@@ -1,39 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="map_timer1">
-        <item>오전</item>
-        <item>오후</item>
-    </string-array>
-
-    <string-array name="map_timer2">
-        <item>1시</item>
-        <item>2시</item>
-        <item>3시</item>
-        <item>4시</item>
-        <item>5시</item>
-        <item>6시</item>
-        <item>7시</item>
-        <item>8시</item>
-        <item>9시</item>
-        <item>10시</item>
-        <item>11시</item>
-        <item>12시</item>
-    </string-array>
-
-    <string-array name="map_timer3">
-        <item>5분</item>
-        <item>10분</item>
-        <item>15분</item>
-        <item>20분</item>
-        <item>25분</item>
-        <item>30분</item>
-        <item>35분</item>
-        <item>40분</item>
-        <item>45분</item>
-        <item>50분</item>
-        <item>55분</item>
-        <item>정각</item>
-    </string-array>
 
     <string-array name="map_departure">
         <item>인천대 입구</item>
