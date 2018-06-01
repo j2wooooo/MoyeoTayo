@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    //
     <string-array name="map_departure">
         <item>인천대 입구</item>
         <item>인천대 정문</item>
